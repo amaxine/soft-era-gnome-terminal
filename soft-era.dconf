@@ -1,0 +1,15 @@
+[/]
+foreground-color='rgb(187,163,164)'
+visible-name='~ soft era ~'
+palette=['rgb(28,27,41)', 'rgb(228,107,133)', 'rgb(135,185,172)', 'rgb(253,163,170)', 'rgb(112,164,220)', 'rgb(232,151,176)', 'rgb(165,155,215)', 'rgb(247,242,242)', 'rgb(28,27,41)', 'rgb(228,107,133)', 'rgb(135,185,172)', 'rgb(253,163,170)', 'rgb(112,164,220)', 'rgb(232,151,176)', 'rgb(165,155,215)', 'rgb(247,242,242)']
+cursor-background-color='rgb(232,151,176)'
+cursor-colors-set=true
+highlight-colors-set=true
+use-theme-colors=false
+cursor-foreground-color='rgb(28,27,41)'
+use-theme-transparency=false
+bold-color-same-as-fg=false
+highlight-background-color='rgb(231,228,2490)'
+background-color='rgb(247,242,242)'
+bold-color='rgb(129,113,113)'
+highlight-foreground-color='rgb(155,145,198)'
